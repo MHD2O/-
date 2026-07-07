@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+openpyxl==3.1.5
+python-pptx==1.0.2
+pywin32==311
+comtypes==1.4.11
+Pillow==11.3.0
